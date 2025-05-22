@@ -8,14 +8,14 @@
 .Perference {
   min-height: 100px;
   height: auto;
-  /*background-color: rgb(231, 157, 67);*/
+  /* background-color: rgb(231, 157, 67); */
   padding-top: 10px;
 }
 
 .Perference-heading {
   display: flex;
   justify-content: space-between;
-  /*background-color: blue;*/
+  /* background-color: blue; */
   height: auto;
   margin-top: 10px;
 }
@@ -153,7 +153,7 @@
   padding-right: 7px;
   padding-top: 3px;
   padding-bottom: 3px;
-  /*background-color: blueviolet;*/
+  /* background-color: blueviolet; */
   background-color: snow;
   border: none;
   border-radius: 50px;
@@ -198,7 +198,7 @@
 .employement {
   min-height: 100px;
   height: auto;
-  /*background-color: rgb(53, 201, 201);*/
+  /* background-color: rgb(53, 201, 201); */
   padding-top: 10px;
   margin-top: 10px;
   border-top: 2px solid gray;
@@ -207,7 +207,7 @@
 .employement-heading {
   display: flex;
   justify-content: space-between;
-  /*background-color: blue;*/
+  /* background-color: blue; */
   height: auto;
   margin-top: 10px;
 }
@@ -265,7 +265,7 @@
 .internship {
   min-height: 100px;
   height: auto;
-  /*background-color: rgb(53, 201, 201);*/
+  /* background-color: rgb(53, 201, 201); */
   padding-top: 10px;
   margin-top: 10px;
   border-top: 2px solid gray;
@@ -274,7 +274,7 @@
 .internship-heading {
   display: flex;
   justify-content: space-between;
-  /*background-color: blue;*/
+  /* background-color: blue; */
   height: auto;
   margin-top: 10px;
 }
@@ -338,7 +338,7 @@
 .career {
   min-height: 100px;
   height: auto;
-  /*background-color: rgb(53, 201, 201);*/
+  /* background-color: rgb(53, 201, 201); */
   padding-top: 10px;
   margin-top: 10px;
   border-top: 2px solid gray;
@@ -347,7 +347,7 @@
 .career-heading {
   display: flex;
   justify-content: space-between;
-  /*background-color: blue;*/
+  /* background-color: blue; */
   height: auto;
   margin-top: 10px;
 }
@@ -376,21 +376,21 @@
 
 .career-info-list {
   display: flex;
-  /*background-color: indianred;*/
+  /* background-color: indianred; */
   margin-top: -10px;
   min-height: 40px;
   height: auto;
 }
 
 .career-info-list-1 {
-  /*background-color: burlywood;*/
+  /* background-color: burlywood; */
   width: 40%;
 
 
 }
 
 .career-info-list-2 {
-  /*background-color: crimson;*/
+  /* background-color: crimson; */
   width: 40%;
 }
 

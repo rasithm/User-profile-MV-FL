@@ -8,7 +8,7 @@
 .skill-container {
   min-height: 400px;
   height: auto;
-  /*background-color: rgb(135, 136, 189);*/
+  /* background-color: rgb(135, 136, 189); */
   margin-top: 20px;
   padding: 20px;
   border-radius: 15px;
@@ -20,12 +20,12 @@
 .education {
   min-height: 190px;
   height: auto;
-  /*background-color: brown;*/
+  /* background-color: brown; */
 }
 
 .education-name1 {
   display: flex;
-  /*background-color: bisque;*/
+  /* background-color: bisque; */
   justify-content: space-between;
 
 }
@@ -44,7 +44,7 @@
 .education-name2 {
   min-height: 150px;
   height: auto;
-  /*background-color: cadetblue;*/
+  /* background-color: cadetblue; */
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -57,7 +57,7 @@
 .education-name2-2,
 .education-name2-3 {
 
-  /*background-color: cornflowerblue;*/
+  /* background-color: cornflowerblue; */
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
@@ -88,7 +88,7 @@
 .key-skills {
   min-height: 100px;
   height: auto;
-  /*background-color: bisque;*/
+  /* background-color: bisque; */
   padding-top: 10px;
   position: relative;
   border-top: 2px solid gray;
@@ -99,7 +99,7 @@
 .key-headline {
   display: flex;
   justify-content: space-between;
-  /*background-color: blue;*/
+  /* background-color: blue; */
   height: auto;
 }
 
@@ -188,7 +188,7 @@
   padding-right: 7px;
   padding-top: 3px;
   padding-bottom: 3px;
-  /*background-color: blueviolet;*/
+  /* background-color: blueviolet; */
   background-color: snow;
   border: none;
   border-radius: 50px;
@@ -204,7 +204,7 @@
   padding-right: 7px;
   padding-top: 3px;
   padding-bottom: 3px;
-  /*background-color: blueviolet;*/
+  /* background-color: blueviolet; */
   background-color: snow;
   border: none;
   border-radius: 50px;
