@@ -39,7 +39,7 @@
 
   /* mod */
   background-color: #fff;
-  box-shadow: 0px 0px 10px 0px #555;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .info-name {
@@ -154,20 +154,22 @@
 .detial-div-name-mv p {
   font-size: 12px;
   font-weight: 500;
+  color: #555555;
 
 }
 
 .info-date-mv p {
   font-size: 13px;
   margin-top: 15px;
+  color: #555555;
 }
 
 .update-p-mv {
-  color: gray;
+  color: #555555;
 }
 
 .date-mv {
-  color: rgb(110, 110, 110);
+  color: #555555;
 }
 
 
@@ -211,13 +213,14 @@
   font-size: 20px;
   margin-top: 13px;
   margin-left: 2px;
+  color: black;
 
 }
 
 .detial-div-name p {
   font-size: 12px;
   font-weight: 500;
-
+  color: #555555;
 }
 
 .info-date p {
@@ -226,11 +229,11 @@
 }
 
 .update-p {
-  color: gray;
+  color: #555555;
 }
 
 .date {
-  color: rgb(110, 110, 110);
+  color: #555555;
 }
 
 .detail-main {
@@ -269,14 +272,23 @@
   height: 140px;
   width: 100%;
   border-right: 2px solid rgb(168, 158, 158);
+  gap: 8px;
+  margin-top: 5px;
 }
+
 
 .gender-box-person {
   display: flex;
+  color: #555555;
 }
 
 .gender-box-date {
   display: flex;
+  color: #555555;
+}
+
+.gender-box-date p a{
+  color: #555555;
 }
 
 .gender-box-place {
@@ -286,7 +298,9 @@
 
 }
 
-
+.gender-box-place a{
+  color: #555555;
+}
 
 
 .fa-user,
@@ -294,21 +308,28 @@
 .fa-location-dot {
   margin-right: 8px;
   margin-top: 3px;
+  /* color: #555555; */
 }
 
 .fa-location-dot {
   font-size: 18px;
+  /* color: #555555; */
 }
 
 .gender-box-place p {
   font-size: 14px;
+  color: #555555;
 
 
 }
 
+.open-modal-btn{
+  color: #555555;
+}
 .gender-box-date p {
   margin-top: 2px;
   font-size: 14px;
+  color: #555555;
 }
 
 .phone-box {
@@ -337,6 +358,7 @@
 /* mod */
 .phone-box-ul li {
   margin-bottom: 2px;
+  color: #555555;
 }
 
 .phone-box-person {
@@ -370,14 +392,17 @@
 .fa-phone {
   margin-right: 8px;
   margin-top: 3px;
+  color: #555555;
 }
 
 .fa-envelope {
   margin-right: 8px;
   margin-top: 5px;
+  
 }
 
 .fa-suitcase {
+  color: #555555;
   margin-right: 8px;
   font-size: 18px;
 }
@@ -415,7 +440,8 @@
 /* mod   */
 .color-div {
   height: 120px;
-  background-color: #FFBD03;
+  background-color: #FFBD11;
+  /* background-color: #e6c466f6; */
   display: flex;
   border-radius: 15px;
   width: 90%;

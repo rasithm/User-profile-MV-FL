@@ -12,7 +12,7 @@
   margin-top: 20px;
   padding: 20px;
   border-radius: 15px;
-  box-shadow: 0px 0px 10px 0px #555;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   /* mod */
   background-color: #fff;
 }
@@ -29,16 +29,25 @@
   justify-content: space-between;
 
 }
+.education-name1 h2{
+  font-size: 20px;
+}
 
 .add-div {
   cursor: pointer;
 }
 
 .add-div a {
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 17px;
+  font-weight: 500;
   margin-right: 7px;
+  color: #333;
 
+}
+
+.add-div i{
+  font-size: 17px;
+  color: #333;
 }
 
 .education-name2 {
@@ -70,13 +79,16 @@
 }
 
 .education-name2-1-col h2 {
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 17px;
+  font-weight: 550;
+  color:#333;
 }
 
 .education-name2-1-col p {
   font-size: 14px;
   font-weight: 400;
+  color: #333;
+  /* color: #999; */
 
 }
 
@@ -115,17 +127,18 @@
 }
 
 .key-add-div a {
-  font-size: 20px;
-  font-weight: 700;
+  font-size: 17px;
+  font-weight: 500;
   margin-right: 7px;
+  color: #333;
 }
 
-.fa-pen-to-square {
-  font-size: 22px;
-}
 
 .key-add-div .fa-pen-to-square {
-  margin-top: 2px;
+  font-size: 17px;
+  margin-top: 3px;
+  margin-left: 5px;
+  color: #333;
 }
 
 
@@ -137,7 +150,7 @@
 }
 
 .key-list-div {
-  width: 90%;
+  width: 89%;
 }
 
 .key-list-ul {
@@ -189,7 +202,8 @@
   padding-top: 3px;
   padding-bottom: 3px;
   /* background-color: blueviolet; */
-  background-color: snow;
+  /* background-color: snow; */
+  background-color: #fff;
   border: none;
   border-radius: 50px;
   text-decoration: underline;
@@ -205,7 +219,8 @@
   padding-top: 3px;
   padding-bottom: 3px;
   /* background-color: blueviolet; */
-  background-color: snow;
+  /* background-color: snow; */
+  background-color: #fff;
   border: none;
   border-radius: 50px;
   text-decoration: underline;
